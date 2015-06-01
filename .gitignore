@@ -1,0 +1,8 @@
+*.apk
+.idea/
+gen/
+out/
+ProjetAndroid.iml
+AndroidManifest.xml
+MONSTERFALL.iml
+.editorconfig
